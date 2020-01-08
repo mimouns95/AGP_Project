@@ -14,7 +14,7 @@ import business.CourseDAO;
 import business.PromotionDAO;
 import business.UniversityYearDAO;
 import persistence.Promotion;
-
+// Test comment
 @ManagedBean
 public class AddCourseBean {
 
